@@ -1,0 +1,23 @@
+{
+  "name": "purple-night-theme",
+  "version": "1.0.0",
+  "author": "Breuxi & Chu",
+  "description": "Purple Night Firefox Theme with Twinkling Stars",
+  "scripts": {
+    "dev": "web-ext run",
+    "build": "web-ext build",
+    "lint": "web-ext lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firefox",
+    "theme",
+    "stars",
+    "purple",
+    "twinkling"
+  ],
+  "license": "Creative Commons Attribution-NonCommercial-Share Alike 3.0",
+  "devDependencies": {
+    "web-ext": "^5.0.0"
+  }
+}
